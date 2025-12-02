@@ -3,7 +3,7 @@ Machine Learning Model for Early Diagnosis using the Wisconsin Diagnostic Breast
   
   
   1. Project Overview
-
+     
 Breast cancer remains one of the leading causes of death among women globally. Early detection significantly improves survival rates, but access to reliable diagnostics is limited in many regions.
 This project builds a machine learning model that predicts whether a breast tumor is benign or malignant using diagnostic features derived from breast mass cell nuclei. The goal is to support early detection and provide a foundation for decision-support systems in healthcare.
 This project was completed as part of the Capstone requirement for the Machine Learning Program.
